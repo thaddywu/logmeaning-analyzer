@@ -1,0 +1,10 @@
+I'll give you several example logs generated from the same log template "Marking notification as seen <*>|<*>|<*>|null|<*>"
+Each <*> is a placeholder for a variable without its name.
+I have extracted out the 4 values from each of the 2 logs out, and put them in the end.
+Please analyze those values along with the given template, and guess the meaning of each variable in the template.
+Please answer in two lines: the first line is your guessed meanings, delimited by comma. The second line is your guess about whether each variables is sensitive or not. Please write T as sensitive, F as non-sensitive. Don't answer anything else!
+Extracted out values:
+var1,var2,var3,var4
+0,com.tencent.mobileqq,121,10111
+0,com.tencent.mm,4097,10112
+

@@ -1,0 +1,12 @@
+var1
+user.dir=/
+host.name=mesos-master-1
+java.vendor=Oracle Corporation
+"zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT"
+user.name=zookeeper
+os.name=Linux
+java.vendor=Oracle Corporation
+java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar
+os.name=Linux
+user.name=zookeeper
+java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre

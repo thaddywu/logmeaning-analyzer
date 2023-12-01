@@ -1,0 +1,10 @@
+I'll give you several example logs generated from the same log template "START u0 {act=<*> cat=[<*>] flg=<*> cmp=<*> bnds=<*>} from uid <*> on display <*>"
+Each <*> is a placeholder for a variable without its name.
+I have extracted out the 7 values from each of the 2 logs out, and put them in the end.
+Please analyze those values along with the given template, and guess the meaning of each variable in the template.
+Please answer in two lines: the first line is your guessed meanings, delimited by comma. The second line is your guess about whether each variables is sensitive or not. Please write T as sensitive, F as non-sensitive. Don't answer anything else!
+Extracted out values:
+var1,var2,var3,var4,var5,var6,var7
+android.intent.action.MAIN,android.intent.category.LAUNCHER,0x10200000,com.example.android.notepad/.NotePadActivity,"[8,820][184,1011]",10057,0
+android.intent.action.MAIN,android.intent.category.LAUNCHER,0x10200000,com.tencent.mobileqq/.activity.SplashActivity,"[360,820][536,1011]",10057,0
+

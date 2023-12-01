@@ -1,0 +1,10 @@
+var1,var2
+jobhistory.EventType,jobhistory.JobHistoryEventHandler
+v2.app.job.event.JobEventType,v2.app.MRAppMaster$JobEventDispatcher
+v2.app.job.event.TaskEventType,v2.app.MRAppMaster$TaskEventDispatcher
+v2.app.job.event.TaskAttemptEventType,v2.app.MRAppMaster$TaskAttemptEventDispatcher
+v2.app.commit.CommitterEventType,v2.app.commit.CommitterEventHandler
+v2.app.speculate.Speculator$EventType,v2.app.MRAppMaster$SpeculatorEventDispatcher
+v2.app.rm.ContainerAllocator$EventType,v2.app.MRAppMaster$ContainerAllocatorRouter
+v2.app.launcher.ContainerLauncher$EventType,v2.app.MRAppMaster$ContainerLauncherRouter
+v2.app.job.event.JobFinishEvent$Type,v2.app.MRAppMaster$JobFinishEventHandler

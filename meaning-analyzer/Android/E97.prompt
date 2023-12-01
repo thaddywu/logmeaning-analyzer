@@ -1,0 +1,21 @@
+I'll give you several example logs generated from the same log template "overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():<*>"
+Each <*> is a placeholder for a variable without its name.
+I have extracted out the 11 values from each of the 13 logs out, and put them in the end.
+Please analyze those values along with the given template, and guess the meaning of each variable in the template.
+Please answer in two lines: the first line is your guessed meanings, delimited by comma. The second line is your guess about whether each variables is sensitive or not. Please write T as sensitive, F as non-sensitive. Don't answer anything else!
+Extracted out values:
+var1,var2,var3,var4,var5,var6,var7,var8,var9,var10,var11
+196,0,0,0,-196,0,4,0,333,0,-529
+146,0,0,0,-146,0,4,0,333,0,-479
+119,0,0,0,-119,0,4,0,333,0,-452
+85,0,0,0,-85,0,4,0,333,0,-418
+46,0,0,0,-46,0,4,0,333,0,-379
+5,0,0,0,-5,0,4,0,333,0,-338
+95,0,0,0,-95,0,4,0,333,0,-428
+154,0,0,0,-154,0,4,0,333,0,-487
+213,0,0,0,-213,0,4,0,333,0,-546
+164,0,0,0,-164,0,4,0,333,0,-497
+220,0,0,0,-220,0,4,0,333,0,-553
+220,0,0,0,-220,0,4,0,333,0,-553
+220,0,0,0,-220,0,4,0,333,0,-553
+

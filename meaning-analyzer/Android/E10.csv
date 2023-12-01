@@ -1,0 +1,27 @@
+var1,var2,var3,var4,var5,var6,var7
+233570404,0x1,View Lock,com.android.systemui,null,10037,2227
+166121161,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+189667585,0x1,*launch*,android,WorkSource{10113},1000,1702
+189667585,0x1,*launch*,android,WorkSource{10111},1000,1702
+237091223,0x1,WiredAccessoryManager,android,null,1000,1702
+86152250,0x1,handleAudioEvent,android,null,1000,1702
+219829192,0x1,AudioMix,audioserver,null,1041,0
+60373518,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+134680583,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+134680583,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+134680583,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+120758482,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+120758482,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+120758482,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+120758482,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+120758482,0x1,RILJ_ACK_WL,com.android.phone,null,1001,2626
+189667585,0x1,*launch*,android,WorkSource{10057},1000,1702
+189667585,0x1,*launch*,android,WorkSource{10020},1000,1702
+189667585,0x1,*launch*,android,WorkSource{10057},1000,1702
+189667585,0x1,*launch*,android,WorkSource{10111},1000,1702
+191063310,0x1,AudioMix,audioserver,null,1041,0
+149977903,0x1,AudioMix,audioserver,null,1041,0
+155645244,0x1,AudioMix,audioserver,null,1041,0
+173466309,0x1,AudioMix,audioserver,null,1041,0
+189667585,0x1,*launch*,android,WorkSource{10057},1000,1702
+189667585,0x1,*launch*,android,WorkSource{10112},1000,1702

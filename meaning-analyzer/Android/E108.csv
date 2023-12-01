@@ -1,0 +1,27 @@
+var1,var2,var3,var4,var5,var6,var7
+233570404,0x0,View Lock,"com.android.systemui""",null,10037,2227
+189667585,0x0,*launch*,"android""",WorkSource{10113},1000,1702
+62617001,0x0,WindowManager,"android""",WorkSource{10113},1000,1702
+226887582,0x0,SCREEN_FROZEN,"android""",null,1000,1702
+166121161,0x0,RILJ_ACK_WL,"com.android.phone""",null,1001,2626
+264232593,0x0,AudioMix,"audioserver""",null,1041,0
+189667585,0x0,*launch*,"android""",WorkSource{10113},1000,1702
+189667585,0x0,*launch*,"android""",WorkSource{10111},1000,1702
+237091223,0x0,WiredAccessoryManager,"android""",null,1000,1702
+86152250,0x0,handleAudioEvent,"android""",null,1000,1702
+219829192,0x0,AudioMix,"audioserver""",null,1041,0
+60373518,0x0,RILJ_ACK_WL,"com.android.phone""",null,1001,2626
+134680583,0x0,RILJ_ACK_WL,"com.android.phone""",null,1001,2626
+134680583,0x0,RILJ_ACK_WL,"com.android.phone""",null,1001,2626
+120758482,0x0,RILJ_ACK_WL,"com.android.phone""",null,1001,2626
+120758482,0x0,RILJ_ACK_WL,"com.android.phone""",null,1001,2626
+120758482,0x0,RILJ_ACK_WL,"com.android.phone""",null,1001,2626
+189667585,0x0,*launch*,"android""",WorkSource{10057},1000,1702
+189667585,0x0,*launch*,"android""",WorkSource{10020},1000,1702
+189667585,0x0,*launch*,"android""",WorkSource{10057},1000,1702
+189667585,0x0,*launch*,"android""",WorkSource{10111},1000,1702
+149977903,0x0,AudioMix,"audioserver""",null,1041,0
+155645244,0x0,AudioMix,"audioserver""",null,1041,0
+191063310,0x0,AudioMix,"audioserver""",null,1041,0
+173466309,0x0,AudioMix,"audioserver""",null,1041,0
+189667585,0x0,*launch*,"android""",WorkSource{10057},1000,1702

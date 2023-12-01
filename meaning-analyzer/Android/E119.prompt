@@ -1,0 +1,10 @@
+I'll give you several example logs generated from the same log template "sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag =null"
+Each <*> is a placeholder for a variable without its name.
+I have extracted out the 7 values from each of the 2 logs out, and put them in the end.
+Please analyze those values along with the given template, and guess the meaning of each variable in the template.
+Please answer in two lines: the first line is your guessed meanings, delimited by comma. The second line is your guess about whether each variables is sensitive or not. Please write T as sensitive, F as non-sensitive. Don't answer anything else!
+Extracted out values:
+var1,var2,var3,var4,var5,var6,var7
+19069ff,3,509169377,50303cc,e204f60,com.android.phone,0
+2741459,3,509267844,f75f81e,e204f60,com.android.phone,0
+

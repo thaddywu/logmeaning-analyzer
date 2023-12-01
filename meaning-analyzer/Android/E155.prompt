@@ -1,0 +1,60 @@
+I'll give you several example logs generated from the same log template "updateClipping isOverlap:false, getTopPadding=<*>.<*>, Translation=<*>.<*>"
+Each <*> is a placeholder for a variable without its name.
+I have extracted out the 4 values from each of the 52 logs out, and put them in the end.
+Please analyze those values along with the given template, and guess the meaning of each variable in the template.
+Please answer in two lines: the first line is your guessed meanings, delimited by comma. The second line is your guess about whether each variables is sensitive or not. Please write T as sensitive, F as non-sensitive. Don't answer anything else!
+Extracted out values:
+var1,var2,var3,var4
+333,0,-24,0
+333,0,-293,0
+333,0,-250,0
+333,0,-240,0
+333,0,-200,0
+333,0,-168,0
+333,0,-139,0
+333,0,-113,0
+333,0,-90,0
+333,0,-72,0
+333,0,-55,0
+333,0,-40,0
+333,0,-29,0
+333,0,-19,0
+333,0,-11,0
+333,0,-6,0
+333,0,-2,0
+333,0,-1,0
+333,0,0,0
+333,0,0,0
+333,0,-6,0
+333,0,-21,0
+333,0,-43,0
+333,0,-70,0
+333,0,-102,0
+333,0,-139,0
+333,0,-178,0
+333,0,-222,0
+333,0,-270,0
+333,0,-321,0
+333,0,0,0
+333,0,0,0
+333,0,0,0
+333,0,0,0
+333,0,0,0
+333,0,0,0
+333,0,0,0
+333,0,-429,0
+333,0,-497,0
+333,0,-497,0
+333,0,-24,0
+333,0,-24,0
+333,0,-24,0
+333,0,0,0
+333,0,0,0
+333,0,0,0
+333,0,0,0
+333,0,-429,0
+333,0,-497,0
+333,0,-497,0
+333,0,-497,0
+333,0,-24,0
+
